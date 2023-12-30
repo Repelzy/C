@@ -1,0 +1,9 @@
+#ignore specific file extensions
+*.exe
+*.out
+*.txt
+*.json
+#ignore specific folder
+/.vscode
+
+

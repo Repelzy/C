@@ -3,7 +3,7 @@
 *.out
 *.txt
 *.json
-.code-workspace
+*.code-workspace
 #ignore specific folder
 /.vscode
 
